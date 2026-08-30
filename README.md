@@ -1,217 +1,100 @@
-<!-- Header -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f6b63,100:2563eb&height=160&section=header&text=Kuldeep%20Panwar&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Building%20real%20systems%20for%20real%20people&descAlignY=58&descSize=16" width="100%"/>
+  <img src="https://github.com/kuldeeppanwar02.png" width="110" style="border-radius: 24px; box-shadow: 0 4px 20px rgba(0,0,0,0.1); margin-bottom: 16px;" alt="Kuldeep Panwar"/>
+  
+  <h1 style="border-bottom: none; font-weight: 700; letter-spacing: -1px; margin-bottom: 0;">Kuldeep Panwar</h1>
+  
+  <a href="https://github.com/kuldeeppanwar02">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=16&duration=2500&pause=1000&color=666666&center=true&vCenter=true&width=600&lines=Systems+Architect;Pragmatic+AI+Engineer;Full-Stack+Problem+Solver;Building+for+the+Edge" alt="Typing SVG" />
+  </a>
+  
+  <p style="margin-top: 16px;">
+    <a href="https://linkedin.com/in/your-linkedin-id"><img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="mailto:panwarkuldeep256@gmail.com"><img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+    <a href="#"><img src="https://img.shields.io/badge/Rajasthan,_India-111111?style=for-the-badge&logo=google-maps&logoColor=white" /></a>
+  </p>
 
+  <!-- Abstract Sleek 3D Animation (ThreeUI Vibe) -->
+  <img src="https://raw.githubusercontent.com/gist/samanthaming/edbc7b9c9f4d7af0ed6fc4f54e4bbd11/raw/animated-wave-dark.gif" width="100%" height="40" style="object-fit: cover; opacity: 0.5;" />
+  <br/>
 </div>
 
----
+### ✦ The "Code Speaks" Philosophy
 
-## Who I am
+I am a natural problem solver who has been taking machines apart to understand their core mechanics since the 2nd grade. I don't just write syntax; I engineer root-level architectures. I believe that top-tier project documentation, atomic database design, and production-ready code should speak for themselves. 
 
-I open things to understand how they work.
+My engineering focus lies in **Neuro-symbolic AI (Hybrid ML)**, **Distributed Edge Computing**, and **Offline-First Resilience**.
 
-Started in 2nd standard — machines, systems, anything mechanical. That curiosity never stopped. Now I build software the same way: go deep, understand every layer, don't stop until it actually works.
+<br/>
 
-I don't talk about what I'm building. I ship it, deploy it, and let people use it. The footer of three production websites in Rajasthan says:
+### ✦ Core Arsenal
 
-> *"Designed & Developed by Kuldeep Panwar"*
+<div align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,js,python,react,nextjs,tailwind,nodejs,postgres,mongodb,supabase,gcp,docker,git,github,vercel,cloudflare&theme=light" />
+  </a>
+</div>
 
-**That's my communication strategy.**
+<br/>
 
----
+### ✦ Architectural Masterpieces
 
-## What I've shipped — in production, right now
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🏥 Panwar Health Care
-**[drsattarampanwar.com](https://drsattarampanwar.com)**
-
-Hindi-first clinic queue PWA. 3 departments, 1 codebase. Patients scan a QR code at the door, get a numbered token, track their queue position from their phone — no paper, no calls.
-
-**100+ patients served daily.** Production since 2026.
-
-`Next.js 15` · `Supabase` · `IndexedDB` · `PWA`
-
-</td>
-<td width="50%" valign="top">
-
-### 🏪 ScanMart Partner
-**[scanmart-app.vercel.app](https://scanmart-app.vercel.app)**
-
-Pharmacy & retail ERP SaaS. Full POS terminal, batch/expiry (FEFO) tracking, H1 narcotics register, GST filing, khata CRM, multi-store switching, offline billing with IndexedDB replay.
-
-13+ versioned SQL migrations. Atomic stock decrements via PostgreSQL RPC with cross-store RLS.
-
-`Next.js 16` · `TypeScript` · `Supabase` · `Tailwind CSS 4`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🏥 Renwal Multi-Speciality Hospital
-**[Renwal Hospital →](https://github.com/kuldeeppanwar02/Renwal-Multi-Speciality-Hospital)**
-
-Production hospital platform. 5 specialist doctors, Ayushman Bharat + MAA Yojana empanelled. 3D-tilt doctor cards, animated stats counter, full modal system — deployed on **Cloudflare Workers** edge network.
-
-Includes `Core_OS_Integration_Guide.md` — a blueprint for transplanting the clinic queue engine into multi-department hospital scale.
-
-`HTML/CSS/JS` · `Cloudflare Workers` · `WebP`
-
-</td>
-<td width="50%" valign="top">
-
-### ⚡ Chetnix Compute Network
-**[Whitepaper + Prototype →](https://github.com/kuldeeppanwar02/chetnix)**
-
-Independently designed a decentralized AI compute marketplace. Consumer GPU owners rent idle capacity to AI startups at 61% below AWS pricing. Settlement via Solana $CHX token.
-
-Built an 11-factor adaptive scheduler with documented weight rationale, a 32-node global simulation (480 data points), proof-of-compute protocol with ed25519 signatures, and a full interactive specification for investors, engineers, miners, and AI startups.
-
-*Same thesis as io.net (\$30M raised) — arrived at independently.*
-
-`Electron` · `Rust` · `Solana` · `React Native` · `GoLang`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🤖 TalentBridge — Resume Intelligence Engine
-**[View Project →](https://github.com/kuldeeppanwar02/resume-screening-talentbridge)**
-
-Hybrid NLP pipeline for resume screening. Rule-based scoring (60%) + TF-IDF cosine similarity (40%) = Hybrid Fit Score. Random Forest + Logistic Regression classifiers. 5,000 structured resume records. Custom dark-theme Streamlit dashboard.
-
-`Python` · `NLTK` · `scikit-learn` · `Streamlit` · `pandas`
-
-</td>
-<td width="50%" valign="top">
-
-### 🏫 Smart Digital Management
-**[View Project →](https://github.com/kuldeeppanwar02/Smart-Digital-management)**
-
-School ERP system. Attendance, exams, marks, fees, timetable, parent portal, admin dashboard. Full JWT auth, role-based access, MongoDB.
-
-`Node.js` · `Express` · `React` · `Vite` · `MongoDB`
-
-</td>
-</tr>
+<table width="100%" style="border-collapse: collapse; border: none;">
+  <tr>
+    <td width="50%" valign="top" style="border: none; padding: 0 20px 30px 0;">
+      <h3 style="margin-bottom: 4px; font-weight: 600;">01. Chetnix Network</h3>
+      <p style="margin-top: 0; font-size: 14px; color: #888;"><i>Decentralized AI Compute</i></p>
+      <p style="font-size: 14px; line-height: 1.6; color: #444;">A complete distributed system specification for renting idle GPUs for AI inference, comparable to io.net. Features an adaptive 11-factor scheduler, a 45KB interactive 32-node simulation engine, and Solana $CHX settlement validation.</p>
+      <a href="https://github.com/kuldeeppanwar02/chetnix" style="font-size: 13px; font-weight: 600; text-decoration: none;">Explore Architecture ↗</a>
+    </td>
+    <td width="50%" valign="top" style="border: none; padding: 0 0 30px 20px;">
+      <h3 style="margin-bottom: 4px; font-weight: 600;">02. Dr. SR Panwar Clinic</h3>
+      <p style="margin-top: 0; font-size: 14px; color: #888;"><i>Production Queue PWA</i></p>
+      <p style="font-size: 14px; line-height: 1.6; color: #444;">A live, healthcare-grade PWA handling <b>100+ daily patients</b>. Implements background IndexedDB syncing for offline token generation during network drops. Multi-tenant Next.js architecture syncing real-time TV displays via Supabase.</p>
+      <a href="https://github.com/kuldeeppanwar02/DrSrpanwar" style="font-size: 13px; font-weight: 600; text-decoration: none;">View Live System ↗</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top" style="border: none; padding: 0 20px 0 0;">
+      <h3 style="margin-bottom: 4px; font-weight: 600;">03. TalentBridge</h3>
+      <p style="margin-top: 0; font-size: 14px; color: #888;"><i>Hybrid NLP Intelligence</i></p>
+      <p style="font-size: 14px; line-height: 1.6; color: #444;">A production-grade resume screener replacing black-box ML with explainable AI. Merges Rule-Based linguistic heuristics (60%) with TF-IDF cosine similarity (40%) to process 5,000+ records in seconds without expensive GPU overhead.</p>
+      <a href="https://github.com/kuldeeppanwar02/resume-screening-talentbridge" style="font-size: 13px; font-weight: 600; text-decoration: none;">View Repository ↗</a>
+    </td>
+    <td width="50%" valign="top" style="border: none; padding: 0 0 0 20px;">
+      <h3 style="margin-bottom: 4px; font-weight: 600;">04. ScanMart Partner</h3>
+      <p style="margin-top: 0; font-size: 14px; color: #888;"><i>Enterprise Retail ERP</i></p>
+      <p style="font-size: 14px; line-height: 1.6; color: #444;">Offline-first POS and ERP for multi-outlet retailers. Engineered Postgres atomic RPC functions (<code>decrement_stock</code>) bypassing race conditions during concurrent sales, with strictly isolated data using Row Level Security (RLS).</p>
+      <a href="https://scanmart-app.vercel.app/" style="font-size: 13px; font-weight: 600; text-decoration: none;">View Application ↗</a>
+    </td>
+  </tr>
 </table>
 
----
+<br/>
 
-## How I think about problems
-
-```
-Observe a problem nobody has solved well locally
-        ↓
-Understand every layer — from UI down to DB schema
-        ↓
-Build it. Deploy it. Watch real people use it.
-        ↓
-Iterate until there's nothing left to improve.
-```
-
-I built a healthcare queue OS and deployed it at a clinic in Jaisalmer.
-I built a pharmacy ERP and made it work offline when the internet drops.
-I designed a decentralized GPU network from first principles.
-
-None of these were assignments. All of them were problems I saw and decided to fix.
-
----
-
-## Tech I use daily
+### ✦ Activity & Scale
 
 <div align="center">
-
-**Frontend**
-
-![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38BDF8?logo=tailwind-css&logoColor=white)
-
-**Backend & Data**
-
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
-
-**AI / ML**
-
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white)
-![NLTK](https://img.shields.io/badge/NLTK-4B8BBE?logo=python&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP_Vertex_AI-4285F4?logo=google-cloud&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini_API-8E75B2?logo=google&logoColor=white)
-
-**Infrastructure**
-
-![Vercel](https://img.shields.io/badge/Vercel-black?logo=vercel)
-![Cloudflare](https://img.shields.io/badge/Cloudflare_Workers-F38020?logo=cloudflare&logoColor=white)
-![Solana](https://img.shields.io/badge/Solana-9945FF?logo=solana&logoColor=white)
-
+  <img src="https://github-readme-stats.vercel.app/api?username=kuldeeppanwar02&show_icons=true&theme=transparent&hide_border=true&title_color=111111&text_color=333333&icon_color=111111" alt="Kuldeep's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kuldeeppanwar02&layout=compact&theme=transparent&hide_border=true&title_color=111111&text_color=333333" width="48%" />
 </div>
 
----
-
-## Numbers that matter
+<br/>
 
 <div align="center">
-
-| | | |
-|:---:|:---:|:---:|
-| **100+** | **3** | **61%** |
-| Patients using my software daily | Production deployments serving real users | Cost reduction vs AWS (Chetnix design) |
-| | | |
-| **13+** | **32** | **11** |
-| SQL migration files in ScanMart | Simulated GPU nodes across 6 continents | Scheduler factors in Chetnix |
-
+  <!-- Animated Contribution Snake -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kuldeeppanwar02/kuldeeppanwar02/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kuldeeppanwar02/kuldeeppanwar02/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/kuldeeppanwar02/kuldeeppanwar02/output/github-contribution-grid-snake.svg" width="100%" />
+  </picture>
 </div>
 
----
-
-## GitHub Stats
-
+<br/>
+<hr style="border: none; border-top: 1px solid #eaeaea; margin: 40px 0;" />
 <div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=kuldeeppanwar02&show_icons=true&theme=dark&bg_color=0d1117&border_color=30363d&title_color=2563eb&icon_color=0f6b63&text_color=c9d1d9&hide_border=false&count_private=true" />
-&nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kuldeeppanwar02&layout=compact&theme=dark&bg_color=0d1117&border_color=30363d&title_color=2563eb&text_color=c9d1d9&hide_border=false" />
-
+  <p style="color: #888; font-size: 13px; letter-spacing: 0.5px;">
+    <i>Always iterating. Always optimizing. Always building for the edge.</i>
+  </p>
 </div>
 
----
-
-## What I'm focused on
-
-- **Expanding ScanMart** — taking it from one pharmacy to a multi-tenant SaaS for Indian retail chains
-- **Clinic OS at scale** — deploying the queue engine to Renwal Multi-Speciality Hospital
-- **AI + healthcare** — combining Gemini Vision with the pharmacy import workflow (shelf → inventory, automated)
-- **Chetnix Phase 1** — GoLang orchestrator + Rust scheduler microservice
-
----
-
-## Reach me
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-kuldeeppanwar02-181717?logo=github)](https://github.com/kuldeeppanwar02)
-[![Email](https://img.shields.io/badge/Email-panwarkuldeep256%40gmail.com-EA4335?logo=gmail&logoColor=white)](mailto:panwarkuldeep256@gmail.com)
-
-*I respond to opportunities, collaborations, and client projects.*
-*Open to remote roles in full-stack, AI/ML, and healthcare tech.*
-
-</div>
-
----
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0f6b63&height=100&section=footer" width="100%"/>
-</div>
-[README_github_profile.md](https://github.com/user-attachments/files/31609918/README_github_profile.md)
