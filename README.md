@@ -99,22 +99,15 @@ I am a natural problem solver who has been taking machines apart to understand t
 
 <div align="center">
 
-<!-- 3D Isometric Calendar (Requires lowlighter/metrics action) -->
+<!-- Combined Metrics (Languages, Stats, and Calendar) -->
 <picture>
-  <img src="https://raw.githubusercontent.com/kuldeeppanwar02/kuldeeppanwar02/main/assets/metrics.isocalendar.svg" width="90%" alt="3D isometric contribution calendar" onerror="this.style.display='none'">
+  <img src="assets/metrics.svg" width="100%" alt="GitHub Metrics" />
 </picture>
-
-<br>
-
-<!-- Reliable Streak Stats -->
-<img src="https://streak-stats.demolab.com?user=kuldeeppanwar02&theme=transparent&hide_border=true&title_color=111111&text_color=333333" alt="GitHub Streak Stats" width="80%" />
 
 <br><br>
 
-<!-- Language Graph (Requires lowlighter/metrics action) -->
-<picture>
-  <img src="https://raw.githubusercontent.com/kuldeeppanwar02/kuldeeppanwar02/main/assets/metrics.languages.svg" height="165" alt="most used languages" onerror="this.style.display='none'">
-</picture>
+<!-- Reliable Streak Stats -->
+<img src="https://streak-stats.demolab.com?user=kuldeeppanwar02&theme=transparent&hide_border=true&title_color=111111&text_color=333333" alt="GitHub Streak Stats" width="80%" />
 
 <br><br>
 
@@ -129,4 +122,3 @@ I am a natural problem solver who has been taking machines apart to understand t
 <sub>`01100011 01101111 01100100 01100101 00100000 01110011 01110000 01100101 01100001 01101011 01110011`</sub><br>
 <sub><i>Always iterating. Always optimizing. Always building for the edge.</i></sub>
 </div>
-
