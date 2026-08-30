@@ -1,18 +1,18 @@
 <div align="center">
 
-<img src="https://github.com/kuldeeppanwar02.png" width="120" style="border-radius: 24px; box-shadow: 0 4px 20px rgba(0,0,0,0.1); margin-bottom: 16px;" alt="Kuldeep Panwar"/>
+<img src="https://github.com/kuldeepxpanwar.png" width="120" style="border-radius: 24px; box-shadow: 0 4px 20px rgba(0,0,0,0.1); margin-bottom: 16px;" alt="Kuldeep Panwar"/>
 
 <br>
 
 <!-- NAME / TAGLINE - animated typing -->
-<a href="https://github.com/kuldeeppanwar02">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2500&pause=1000&color=39D353&center=true&vCenter=true&width=600&lines=Kuldeep+Panwar;Systems+Architect;Pragmatic+AI+Engineer;Building+for+the+Edge" alt="typing banner">
+<a href="https://github.com/kuldeepxpanwar">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2500&pause=1000&color=39D353&center=true&vCenter=true&width=600&lines=Kuldeep+Panwar;Software+Engineer;AI+%26+Data+Science+Enthusiast;Building+Data-Driven+Apps" alt="typing banner">
 </a>
 
 <br>
 
 <!-- SOCIALS -->
-<a href="https://linkedin.com/in/your-linkedin-id"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://linkedin.com/in/kuldeepxpanwar"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="mailto:panwarkuldeep256@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 <a href="#"><img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
 
@@ -22,9 +22,9 @@
 
 ### ✦ The Philosophy
 
-> *"I don't just write syntax; I engineer root-level architectures."*
+> *"I am passionate about merging classical Machine Learning with modern architectures to solve real-world problems."*
 
-I am a natural problem solver who has been taking machines apart to understand their core mechanics since the 2nd grade. My engineering focus lies in **Neuro-symbolic AI (Hybrid ML)**, **Distributed Edge Computing**, and **Offline-First Resilience**. I believe that top-tier project documentation, atomic database design, and production-ready code should speak for themselves.
+I am a software engineer and natural problem-solver with a deep curiosity for how things work under the hood. Currently, I specialize in building data-driven applications, exploring NLP, and developing robust backend systems. Unlike typical beginner projects, I focus on real-world engineering challenges like offline-first architectures (IndexedDB), atomic database transactions (PostgreSQL RPCs), and explainable AI pipelines.
 
 <br>
 
@@ -44,16 +44,16 @@ I am a natural problem solver who has been taking machines apart to understand t
 <table width="100%">
 <tr>
 <td width="50%" align="center" valign="top" style="padding: 10px;">
-  <a href="https://github.com/kuldeeppanwar02/chetnix">
-    <img src="https://gh-card.dev/repos/kuldeeppanwar02/chetnix.svg?fullname=false" width="420" alt="Chetnix">
+  <a href="https://github.com/kuldeepxpanwar/chetnix">
+    <img src="https://gh-card.dev/repos/kuldeepxpanwar/chetnix.svg?fullname=false" width="420" alt="Chetnix">
   </a>
   <p align="left" style="font-size: 13px; color: #555; line-height: 1.5; margin-top: 8px; padding: 0 10px;">
     <b>Deep Dive:</b> A distributed system specification for renting idle GPUs for AI inference. Features an adaptive 11-factor scheduler, a 45KB interactive 32-node simulation engine, and Solana $CHX settlement validation.
   </p>
 </td>
 <td width="50%" align="center" valign="top" style="padding: 10px;">
-  <a href="https://github.com/kuldeeppanwar02/DrSrpanwar">
-    <img src="https://gh-card.dev/repos/kuldeeppanwar02/DrSrpanwar.svg?fullname=false" width="420" alt="DrSrpanwar">
+  <a href="https://github.com/kuldeepxpanwar/DrSrpanwar">
+    <img src="https://gh-card.dev/repos/kuldeepxpanwar/DrSrpanwar.svg?fullname=false" width="420" alt="DrSrpanwar">
   </a>
   <p align="left" style="font-size: 13px; color: #555; line-height: 1.5; margin-top: 8px; padding: 0 10px;">
     <b>Deep Dive:</b> A healthcare-grade PWA handling 100+ daily patients. Implements background IndexedDB syncing for offline token generation and multi-tenant Next.js architecture syncing real-time TV displays via Supabase.
@@ -62,16 +62,16 @@ I am a natural problem solver who has been taking machines apart to understand t
 </tr>
 <tr>
 <td width="50%" align="center" valign="top" style="padding: 10px;">
-  <a href="https://github.com/kuldeeppanwar02/resume-screening-talentbridge">
-    <img src="https://gh-card.dev/repos/kuldeeppanwar02/resume-screening-talentbridge.svg?fullname=false" width="420" alt="TalentBridge">
+  <a href="https://github.com/kuldeepxpanwar/resume-screening-talentbridge">
+    <img src="https://gh-card.dev/repos/kuldeepxpanwar/resume-screening-talentbridge.svg?fullname=false" width="420" alt="TalentBridge">
   </a>
   <p align="left" style="font-size: 13px; color: #555; line-height: 1.5; margin-top: 8px; padding: 0 10px;">
     <b>Deep Dive:</b> A production-grade resume screener replacing black-box ML with explainable AI. Merges Rule-Based linguistic heuristics (60%) with TF-IDF cosine similarity (40%) to process 5,000+ records in seconds.
   </p>
 </td>
 <td width="50%" align="center" valign="top" style="padding: 10px;">
-  <a href="https://github.com/kuldeeppanwar02/scanmart-partner">
-    <img src="https://gh-card.dev/repos/kuldeeppanwar02/scanmart-partner.svg?fullname=false" width="420" alt="ScanMart">
+  <a href="https://github.com/kuldeepxpanwar/scanmart-partner">
+    <img src="https://gh-card.dev/repos/kuldeepxpanwar/scanmart-partner.svg?fullname=false" width="420" alt="ScanMart">
   </a>
   <p align="left" style="font-size: 13px; color: #555; line-height: 1.5; margin-top: 8px; padding: 0 10px;">
     <b>Deep Dive:</b> Offline-first POS and ERP for multi-outlet retailers. Engineered Postgres atomic RPC functions (<code>decrement_stock</code>) bypassing race conditions, with strictly isolated data using Row Level Security (RLS).
@@ -85,10 +85,10 @@ I am a natural problem solver who has been taking machines apart to understand t
 
 | project | live system | tech stack |
 |---|---|---|
-| **[chetnix](https://github.com/kuldeeppanwar02/chetnix)** | `Offline/Internal` | `Solana` `Distributed Compute` |
-| **[DrSrpanwar](https://github.com/kuldeeppanwar02/DrSrpanwar)** | `Internal PWA` | `Next.js` `Supabase` `IndexedDB` |
-| **[resume-screening-talentbridge](https://github.com/kuldeeppanwar02/resume-screening-talentbridge)** | `Machine Learning Model` | `Python` `NLP` `scikit-learn` |
-| **[scanmart-partner](https://github.com/kuldeeppanwar02/scanmart-partner)** | [scanmart-app.vercel.app](https://scanmart-app.vercel.app/) | `PostgreSQL` `RPC` `Row Level Security` |
+| **[chetnix](https://github.com/kuldeepxpanwar/chetnix)** | `Offline/Internal` | `Solana` `Distributed Compute` |
+| **[DrSrpanwar](https://github.com/kuldeepxpanwar/DrSrpanwar)** | `Internal PWA` | `Next.js` `Supabase` `IndexedDB` |
+| **[resume-screening-talentbridge](https://github.com/kuldeepxpanwar/resume-screening-talentbridge)** | `Machine Learning Model` | `Python` `NLP` `scikit-learn` |
+| **[scanmart-partner](https://github.com/kuldeepxpanwar/scanmart-partner)** | [scanmart-app.vercel.app](https://scanmart-app.vercel.app/) | `PostgreSQL` `RPC` `Row Level Security` |
 
 </sub>
 </div>
@@ -107,7 +107,7 @@ I am a natural problem solver who has been taking machines apart to understand t
 <br>
 
 <!-- Reliable Streak Stats -->
-<img src="https://streak-stats.demolab.com?user=kuldeeppanwar02&theme=transparent&hide_border=true&title_color=111111&text_color=333333" alt="GitHub Streak Stats" width="80%" />
+<img src="https://streak-stats.demolab.com?user=kuldeepxpanwar&theme=transparent&hide_border=true&title_color=111111&text_color=333333" alt="GitHub Streak Stats" width="80%" />
 
 <br><br>
 
@@ -119,7 +119,7 @@ I am a natural problem solver who has been taking machines apart to understand t
 <br><br>
 
 <!-- Animated Contribution Snake -->
-<img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/kuldeeppanwar02/kuldeeppanwar02/output/github-contribution-grid-snake.svg" width="100%" />
+<img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/kuldeepxpanwar/kuldeepxpanwar/output/github-contribution-grid-snake.svg" width="100%" />
 
 </div>
 
