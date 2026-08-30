@@ -2,12 +2,15 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    # Har 12 ghante mein run hoga
     - cron: "0 */12 * * *" 
   workflow_dispatch:
   push:
     branches:
     - main
+
+# Yahan humne explicitly write permission add ki hai
+permissions:
+  contents: write
 
 jobs:
   build:
