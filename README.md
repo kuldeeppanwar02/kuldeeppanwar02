@@ -99,15 +99,22 @@ I am a natural problem solver who has been taking machines apart to understand t
 
 <div align="center">
 
-<!-- Combined Metrics (Languages, Stats, and Calendar) -->
+<!-- 3D Isometric Calendar -->
 <picture>
-  <img src="assets/metrics.svg" width="100%" alt="GitHub Metrics" />
+  <img src="assets/metrics.isocalendar.svg" width="90%" alt="3D isometric contribution calendar" />
 </picture>
 
-<br><br>
+<br>
 
 <!-- Reliable Streak Stats -->
 <img src="https://streak-stats.demolab.com?user=kuldeeppanwar02&theme=transparent&hide_border=true&title_color=111111&text_color=333333" alt="GitHub Streak Stats" width="80%" />
+
+<br><br>
+
+<!-- Language Graph -->
+<picture>
+  <img src="assets/metrics.languages.svg" height="165" alt="most used languages" />
+</picture>
 
 <br><br>
 
