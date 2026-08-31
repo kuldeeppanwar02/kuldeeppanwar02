@@ -126,6 +126,6 @@ I am a software engineer and natural problem-solver with a deep curiosity for ho
 ---
 
 <div align="center">
-<sub>`01100011 01101111 01100100 01100101 00100000 01110011 01110000 01100101 01100001 01101011 01110011`</sub><br>
+<sub>`kuldeep panwar`</sub><br>
 <sub><i>Always iterating. Always optimizing. Always building for the edge.</i></sub>
 </div>
